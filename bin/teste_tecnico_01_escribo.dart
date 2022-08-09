@@ -1,7 +1,7 @@
 import 'dart:io';
 
 void main() {
-  int somaValoresDivisiveisPor3 (int numero) {
+  int somaValoresDivisiveisPor3ou5 (int numero) {
     int somaTotal = 0;
     if (numero == 0){
       return 0;
@@ -19,7 +19,7 @@ void main() {
     print('Digite o numero divisivel por 3 ou 5:\n');
     String? numeroDigitadoPeloUsuario = stdin.readLineSync();
     if (numeroDigitadoPeloUsuario != null){
-      print('Soma total de divisiveis por 3 ou 5: ${somaValoresDivisiveisPor3(int.parse(numeroDigitadoPeloUsuario))}\n');
+      print('Soma total de divisiveis por 3 ou 5: ${somaValoresDivisiveisPor3ou5(int.parse(numeroDigitadoPeloUsuario))}\n');
       print('Deseja fazer outro calculo? (y/n)\n');
       String? escolhaContinuar = stdin.readLineSync();
       if (escolhaContinuar == 'n'){
