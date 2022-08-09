@@ -2,7 +2,7 @@
 
 ## 📁 Acesso, abrir e rodar
 
-** Para visualizar o projeto, [clique aqui](https://github.com/wyzzec/teste_tecnico_01_escribo). **
+**Para visualizar o projeto, [clique aqui](https://github.com/wyzzec/teste_tecnico_01_escribo).**
 
 ## 🛠️ Abrir e rodar o projeto
 
