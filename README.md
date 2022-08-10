@@ -1,6 +1,6 @@
 <h1 align="center"> Teste tecnico 01 </h1>
 
-## 📁 Acesso, abrir e rodar
+## 📁 Acesso
 
 **Para visualizar o projeto, [clique aqui](https://github.com/wyzzec/teste_tecnico_01_escribo).**
 
